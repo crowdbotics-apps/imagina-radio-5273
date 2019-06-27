@@ -1,0 +1,3 @@
+rootProject.name = 'imagina_radio_5273'
+
+include ':app'
